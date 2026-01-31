@@ -13,9 +13,6 @@ class Solution {
                 avlMap.put(num,avlMap.get(num)-1);
                 if(vacMap.get(num)==0) vacMap.remove(num);
                 vacMap.compute(num+1,(k,v)->v==null?1:v+1);
-                // if(avlMap.containsKey(num+1)&&avlMap.get(num+1)>0) {
-                //     avlMap.put(num+1,avlMap.get(num+1)-1);
-                // }
             }
             else if(avlMap.containsKey(num)&&avlMap.containsKey(num+1)&&avlMap.containsKey(num+2)&&avlMap.get(num)>0&&avlMap.get(num+1)>0&&avlMap.get(num+2)>0){
                 avlMap.put(num,avlMap.get(num)-1);
@@ -28,14 +25,7 @@ class Solution {
             
             
         }
-        for(int ele:vacMap.keySet()){
-            System.out.println(ele+" "+vacMap.get(ele));
-        }
-        System.out.println(" ");
-        for(int ele:avlMap.keySet()){
-            System.out.println(ele+" "+avlMap.get(ele));
-            if(avlMap.get(ele)>=1) return false;
-        }
+        
         return true;
     }
 }
