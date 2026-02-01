@@ -1,28 +1,30 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        Set<List<Integer>> set = new HashSet<>();
         int n = nums.length;
-        for(int i = 0; i<nums.length-2 ; i++){
-            HashMap<Integer,Integer> map = new HashMap<>();
+        List<List<Integer>> ans = new ArrayList<>();
+        Arrays.sort(nums);
+        for(int i =0 ; i<n-2 ; i++){
             int tar = nums[i]*(-1);
-            for(int j = i+1 ; j<n ; j++){
-                int remaining = tar-nums[j];
-                if(map.containsKey(remaining)){
-                    List<Integer> list = new ArrayList<>();
-                    list.add(nums[i]);
-                    list.add(remaining);
-                     list.add(nums[j]);
-                    Collections.sort(list);
-                    set.add(list);
-                    map.remove(remaining);
+            int  j = i+1;
+            int k = n-1;
+            while(j<k){
+                int sum = nums[j]+nums[k];
+                if(sum==tar){
+                    ans.add(new ArrayList<>(Arrays.asList(nums[i],nums[j],nums[k])));
+                    if(nums[j]==nums[j+1]||nums[k]==nums[k-1]){
+                         while(j<n-1&&nums[j]==nums[j+1]) j++;
+                         while(k>0&&nums[k]==nums[k-1]) k--;
+                    }
+                    j++;
+                    k--;
+
+                }else if(sum>tar){
+                    k--;
                 }else{
-                    map.put(nums[j],j);
+                    j++;
                 }
             }
-        }
-        for(List<Integer> list:set){
-            ans.add(list);
+            while(i<n-1&&nums[i]==nums[i+1]) i++;
         }
         return ans;
     }
