@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Greedy
 |  |
@@ -47,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
