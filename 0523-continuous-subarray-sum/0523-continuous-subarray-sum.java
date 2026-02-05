@@ -13,7 +13,7 @@ class Solution {
             int rem = nums[i]%k;
             if(map.containsKey(rem)){ 
                  map.compute(rem,(key,value)->value==null?1:value+1);
-                 System.out.println(rem+" "+ map.get(rem));
+                 
                  if(rem==0) return true;
                  if(map.get(rem)==2){
                     int prevRem = nums[i-1]%k;
