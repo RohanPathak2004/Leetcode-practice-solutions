@@ -16,7 +16,7 @@ class Solution {
             maxAvg = Math.max(sum/k,maxAvg);
             i++;
             j++;
-            System.out.println(i+" "+j);
+            
         }
         return maxAvg;
     }
