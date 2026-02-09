@@ -17,15 +17,13 @@ class Solution {
                 i++;
         }
 
-       
-
-       j=i;
+        j = i;
 
         while (j < n && nums[j] == 0)
             j++;
 
-        System.out.println(j);
-        if (j >= n )
+        
+        if (j >= n)
             return;
         while (i < n && j < n) {
             if (nums[i] == 0 && nums[j] != 0)
