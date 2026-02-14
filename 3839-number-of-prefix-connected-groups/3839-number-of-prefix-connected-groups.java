@@ -15,7 +15,7 @@ class Solution {
                 totalGrps++;
             }
         }
-        System.out.println(totalGrps);
+        // System.out.println(totalGrps);
         return totalGrps;
     }
 }
