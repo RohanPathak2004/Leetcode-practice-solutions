@@ -5,7 +5,7 @@ class Solution {
         int[] suf = new int[n];
         int maxPro = Integer.MIN_VALUE;
         pre[0] = nums[0];
-        for (int i = 1; i < n - 1; i++) {
+        for (int i = 1; i < n ; i++) {
             if (nums[i] != 0)
                 pre[i] = nums[i] * pre[i - 1];
             if (pre[i - 1] == 0)
