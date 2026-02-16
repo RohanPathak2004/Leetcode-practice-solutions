@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0567-permutation-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
