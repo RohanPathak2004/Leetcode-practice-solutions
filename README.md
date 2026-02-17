@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Design
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0525-contiguous-array) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0567-permutation-in-string) |
