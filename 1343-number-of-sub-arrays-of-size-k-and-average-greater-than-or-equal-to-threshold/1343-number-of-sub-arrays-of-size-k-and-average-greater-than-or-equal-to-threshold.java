@@ -11,7 +11,7 @@ class Solution {
         }
         j--;
         while(j<n){
-            double avg = (double)sum/k; System.out.println(sum);
+            int avg = sum/k; 
             if(avg>=(double)threshold) count++;
             j++;
             if(j<n) sum += nums[j]-nums[i];
