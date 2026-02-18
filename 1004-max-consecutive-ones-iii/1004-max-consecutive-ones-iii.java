@@ -9,13 +9,13 @@ class Solution {
             map[nums[j]]++;
             if (map[0] <= k) {
                 maxLen = Math.max(j - i + 1, maxLen);
-            } else {
+            } 
                 while (map[0] > k) {
                     map[nums[i]]--;
                     i++;
                 }
                 maxLen = Math.max(j - i + 1, maxLen);
-            }
+            
             j++;
         }
         return maxLen;
