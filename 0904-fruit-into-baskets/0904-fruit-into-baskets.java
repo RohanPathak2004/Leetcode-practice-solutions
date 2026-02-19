@@ -14,9 +14,7 @@ class Solution {
                 if(baskets.get(fruits[i])==0) baskets.remove(fruits[i]);
                 i++;
             }
-            for(int key:baskets.keySet()){
-                count+=baskets.get(key);
-            }
+            count = j-i+1;
             maxF = Math.max(maxF,count);
             j++;
         }
