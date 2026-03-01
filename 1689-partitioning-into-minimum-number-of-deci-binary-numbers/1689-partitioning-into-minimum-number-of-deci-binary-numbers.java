@@ -3,7 +3,7 @@ class Solution {
         int maxNum = 0;
         for(int i = 0 ; i<n.length() ; i++){
             int num = n.charAt(i)-48;
-            maxNum = Math.max(maxNum,num);
+            if(num>=maxNum) maxNum = num;
         }
         return maxNum;
     }
