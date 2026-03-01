@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0011-container-with-most-water) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0567-permutation-in-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
