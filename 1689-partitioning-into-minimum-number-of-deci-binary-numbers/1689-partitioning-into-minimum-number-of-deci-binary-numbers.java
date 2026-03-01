@@ -2,8 +2,8 @@ class Solution {
     public int minPartitions(String n) {
         int maxNum = 0;
         for(int i = 0 ; i<n.length() ; i++){
-            char ch = n.charAt(i);
-            maxNum = Math.max(maxNum,Integer.parseInt(ch+""));
+            int num = n.charAt(i)-48;
+            maxNum = Math.max(maxNum,num);
         }
         return maxNum;
     }
