@@ -5,7 +5,7 @@ class Solution {
         int n = values.length;
         for(int i = 1 ; i<n ;i++){
             int currScore = values[maxIdx]+values[i]+(maxIdx-i);
-            System.out.println(maxIdx+" "+currScore);
+            
             maxScore = Math.max(currScore,maxScore);
             if(values[i]+i>=values[maxIdx]+maxIdx){
                 maxIdx = i;
