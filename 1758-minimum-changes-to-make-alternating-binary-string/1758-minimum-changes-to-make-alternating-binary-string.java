@@ -1,11 +1,11 @@
 class Solution {
-    public String createString(char ch,int n){
-        String s = ch+"";
+    public StringBuilder createString(char ch,int n){
+        StringBuilder s = new StringBuilder(ch+"");
         for(int i = 1 ;i<n ; i++){
             if(s.charAt(i-1)=='1'){
-                s+='0';
+                s.append('0');
             }else{
-                s+='1';
+                s.append('1');
             }
         }
         return s;
@@ -14,8 +14,8 @@ class Solution {
         int n = s.length();
         if(n==1) return 0;
         char ch = s.charAt(0);
-        String one = createString(ch,n);
-        String zero = createString(ch=='1'?'0':'1',n);
+        String one = createString(ch,n).toString();
+        String zero = createString(ch=='1'?'0':'1',n).toString();
         // System.out.println(one+" "+zero);
         int cnt1 = 0;
         int cnt2 = 0;
