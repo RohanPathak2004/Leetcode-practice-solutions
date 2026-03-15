@@ -176,4 +176,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1980-find-unique-binary-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
