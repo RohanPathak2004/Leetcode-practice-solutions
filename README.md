@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0567-permutation-in-string) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Counting Sort
 |  |
@@ -175,10 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [1980-find-unique-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1980-find-unique-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
