@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Counting Sort
 |  |
@@ -184,16 +186,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
