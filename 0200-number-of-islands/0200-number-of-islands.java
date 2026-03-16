@@ -27,11 +27,11 @@ class Solution {
         HashMap<Cell, Set<Cell>> map = new HashMap<>();
         int m = grid.length;
         int n = grid[0].length;
-        int count = 0;
+        
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == '1') {
-                    count++;
+                    
                     Cell c = new Cell(i, j);
                     map.putIfAbsent(c, new HashSet<>());
                     if (i - 1 >= 0 && grid[i - 1][j] == '1') {
@@ -59,13 +59,6 @@ class Solution {
         }
         boolean[][] visited = new boolean[m][n];
         Queue<Cell> q = new LinkedList<>();
-        // for (Cell c : map.keySet()) {
-        //     System.out.println("key " + c.x + " " + c.y);
-        //     Set<Cell> set = map.get(c);
-        //     for (Cell v : set)
-        //         System.out.println(" " + v.x + " " + v.y);
-        // }
-
         int ans = 0;
         for(int i = 0; i<m ; i++){
             for(int j = 0; j<n ; j++){
