@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0525-contiguous-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0307-range-sum-query-mutable) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0053-maximum-subarray) |
+| [0307-range-sum-query-mutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -205,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
