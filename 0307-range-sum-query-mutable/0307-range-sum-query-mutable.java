@@ -1,6 +1,6 @@
 class NumArray {
     int[] tree;
-    int[] nums;
+    // int[] nums;
     int n;
     public void buildTree(int i,int l,int r,int[] tree,int[] arr){
         if(l==r){
@@ -35,7 +35,7 @@ class NumArray {
     }
     public NumArray(int[] nums) {
         n = nums.length;
-        this.nums = nums;
+        // this.nums = nums;
         tree = new int[4*n];
         buildTree(0,0,n-1,tree,nums);
         // System.out.println(tree[0]);
