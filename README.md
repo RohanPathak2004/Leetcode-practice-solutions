@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-best-sightseeing-pair](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1014-best-sightseeing-pair) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1014-best-sightseeing-pair](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
+| [0931-minimum-falling-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1937-maximum-number-of-points-with-cost) |
