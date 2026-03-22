@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0152-maximum-product-subarray) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0198-house-robber) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
