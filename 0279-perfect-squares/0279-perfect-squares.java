@@ -15,7 +15,7 @@ class Solution {
         int[] sqrs = new int[len];
         long[] dp = new long[n+1];
         for(int i = 0; i<len ;i++){
-            sqrs[i] = (int)Math.pow(i+1,2);
+            sqrs[i] = (i+1)*(i+1);
             // System.out.println(sqrs[i]);
         }
         long minStep = rec(0,n,len,sqrs,dp);
