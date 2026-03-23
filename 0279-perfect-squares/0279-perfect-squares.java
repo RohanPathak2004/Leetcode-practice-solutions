@@ -1,11 +1,11 @@
 class Solution {
-    public long rec(int i,long n,int len,int[] sqrs,long[] dp){
-        if(n<0||i>=len) return Integer.MAX_VALUE;
+    public int rec(int i,int n,int len,int[] sqrs,int[][] dp){
+        if(n<0||i>=len) return 100000;
         if(n==0) return 0;
-        if(dp[(int)n]!=0) return dp[(int)n];
-        long pick = 1+Math.min(rec(i,n-sqrs[i],len,sqrs,dp),rec(i+1,n-sqrs[i],len,sqrs,dp));
-        long unpick = rec(i+1,n,len,sqrs,dp);
-        return dp[(int)n] =  Math.min(pick,unpick);
+        if(dp[n][i]!=0) return dp[n][i];
+        int pick = 1+Math.min(rec(i,n-sqrs[i],len,sqrs,dp),rec(i+1,n-sqrs[i],len,sqrs,dp));
+        int unpick = rec(i+1,n,len,sqrs,dp);
+        return dp[n][i] =  Math.min(pick,unpick);
     }
     public int numSquares(int n) {
         // System.out.println((int)Math.sqrt(n/2)+1);
@@ -13,13 +13,13 @@ class Solution {
         if(val*val==n) return 1;
         int len = val+1;
         int[] sqrs = new int[len];
-        long[] dp = new long[n+1];
+        int[][] dp = new int[n+1][len+1];
         for(int i = 0; i<len ;i++){
             sqrs[i] = (i+1)*(i+1);
             // System.out.println(sqrs[i]);
         }
-        long minStep = rec(0,n,len,sqrs,dp);
+        int minStep = rec(0,n,len,sqrs,dp);
         
-        return (int)minStep;
+        return minStep;
     }
 }
