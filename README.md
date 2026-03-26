@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1980-find-unique-binary-string) |
 ## Depth-First Search
 |  |
