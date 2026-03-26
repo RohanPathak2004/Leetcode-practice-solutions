@@ -3,7 +3,7 @@ class Solution {
         if(n<0||i>=len) return 100000;
         if(n==0) return 0;
         if(dp[n][i]!=0) return dp[n][i];
-        int pick = 1+Math.min(rec(i,n-sqrs[i],len,sqrs,dp),rec(i+1,n-sqrs[i],len,sqrs,dp));
+        int pick = 1+rec(i,n-sqrs[i],len,sqrs,dp);
         int unpick = rec(i+1,n,len,sqrs,dp);
         return dp[n][i] =  Math.min(pick,unpick);
     }
