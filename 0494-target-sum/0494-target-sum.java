@@ -1,7 +1,7 @@
 class Solution {
     public int rec(int i, int cur, int tar, int[] nums, int[][] dp){
         if(i>=nums.length&&cur==tar) return 1;
-        if(i>=nums.length) return Integer.MIN_VALUE;
+        if(i>=nums.length) return 0;
         if(dp[i][Math.abs(cur+1000)]!=Integer.MIN_VALUE) return dp[i][Math.abs(cur+1000)];
         // int skip = rec(i+1, cur, tar, nums, dp);
         int pickPos = rec(i+1, cur+nums[i], tar, nums, dp);
@@ -17,6 +17,6 @@ class Solution {
         int[][] dp = new int[n][2*1000+1];
         for(int[] row: dp) Arrays.fill(row,Integer.MIN_VALUE);
         int ans =  rec(0, 0, target, nums, dp);
-        return ans<0?0:ans;
+        return ans;
     }
 }
