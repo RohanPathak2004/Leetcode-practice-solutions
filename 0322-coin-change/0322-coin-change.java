@@ -4,9 +4,9 @@ class Solution {
         if(i>=coins.length||amount<0) return Integer.MAX_VALUE;
         if(dp[i][amount]!=-1) return dp[i][amount];
         long skip = rec(i+1, amount, coins, dp);
-        long pick = 1+rec(i+1 ,amount-coins[i], coins, dp);
-        long pickRepeat = 1+rec(i, amount-coins[i], coins, dp);
-        return dp[i][amount] =  Math.min(skip, Math.min(pick, pickRepeat));
+        long pick = 1+rec(i ,amount-coins[i], coins, dp);
+        // long pickRepeat = 1+rec(i, amount-coins[i], coins, dp);
+        return dp[i][amount] =  Math.min(skip,pick);
     }
 
     public int coinChange(int[] coins, int amount) {
