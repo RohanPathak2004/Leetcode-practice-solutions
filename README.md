@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [0412-fizz-buzz](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0412-fizz-buzz) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0063-unique-paths-ii) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
