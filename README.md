@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1937-maximum-number-of-points-with-cost](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1980-find-unique-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2751-robot-collisions](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2751-robot-collisions) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2751-robot-collisions](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2751-robot-collisions) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0412-fizz-buzz) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2751-robot-collisions](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2751-robot-collisions) |
 ## Matrix
 |  |
 | ------- |
@@ -279,4 +282,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0032-longest-valid-parentheses) |
+| [2751-robot-collisions](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
