@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-best-sightseeing-pair](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1052-grumpy-bookstore-owner](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2751-robot-collisions](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2751-robot-collisions) |
 ## Binary Search
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Design
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1014-best-sightseeing-pair](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1937-maximum-number-of-points-with-cost) |
