@@ -11,7 +11,7 @@ class Solution {
                 if (sum <= n) {
                     map.compute(sum, (k, v) -> v == null ? 1 : v + 1);
                     if (map.get(sum) >= 2) {
-                        map.remove(sum);
+                        map.put(sum,0);
                         ans.add(sum);
                     }
 
