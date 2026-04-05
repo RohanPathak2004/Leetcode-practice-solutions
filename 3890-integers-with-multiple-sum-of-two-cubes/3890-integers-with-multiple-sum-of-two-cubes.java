@@ -7,7 +7,7 @@ class Solution {
         // int[] nums = new int[n];
         for (int i = 1; i <= len; i++) {
             for (int j = i ; j <= len; j++) {
-                int sum = (int)Math.pow(i,3) + (int)Math.pow(j,3);
+                int sum = i*i*i + j*j*j;
                 if (sum <= n) {
                     map.compute(sum, (k, v) -> v == null ? 1 : v + 1);
                     if (map.get(sum) >= 2) {
