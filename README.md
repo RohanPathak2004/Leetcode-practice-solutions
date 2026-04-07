@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0983-minimum-cost-for-tickets](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1004-max-consecutive-ones-iii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-best-sightseeing-pair](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1052-grumpy-bookstore-owner](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1052-grumpy-bookstore-owner) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
