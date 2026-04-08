@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0650-2-keys-keyboard](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0650-2-keys-keyboard) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0650-2-keys-keyboard) |
 | [0746-min-cost-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0931-minimum-falling-path-sum) |
