@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0525-contiguous-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1143-longest-common-subsequence) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0516-longest-palindromic-subsequence) |
