@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0307-range-sum-query-mutable) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
