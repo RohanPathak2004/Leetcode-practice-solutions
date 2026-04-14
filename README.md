@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0091-decode-ways) |
 | [0412-fizz-buzz](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0198-house-robber) |
