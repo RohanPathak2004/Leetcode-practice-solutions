@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0740-delete-and-earn](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0567-permutation-in-string) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0740-delete-and-earn](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0650-2-keys-keyboard) |
+| [0740-delete-and-earn](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0931-minimum-falling-path-sum) |
