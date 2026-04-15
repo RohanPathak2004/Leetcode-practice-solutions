@@ -14,7 +14,7 @@ class Solution {
         return dp[i] = Math.max(skip,pick);
     }
     public int deleteAndEarn(int[] nums) {
-        HashMap<Integer, Integer> map = new LinkedHashMap<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
         for(int ele: nums) map.compute(ele,(k,v)->v==null?1:v+1);
         int n = map.size();
         int[] arr = new int[n];
