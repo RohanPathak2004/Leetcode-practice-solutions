@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2751-robot-collisions) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1980-find-unique-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0650-2-keys-keyboard) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sliding Window
 |  |
 | ------- |
