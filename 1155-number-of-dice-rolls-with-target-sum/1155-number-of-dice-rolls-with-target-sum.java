@@ -15,7 +15,7 @@ class Solution {
     }
     public int numRollsToTarget(int n, int k, int target) {
         int modulo = 1_000_000_007;
-        long[][] dp = new long[n+1][1001];
+        long[][] dp = new long[n+1][target+1];
         for(long[] r:dp) Arrays.fill(r,-1);
         return (int)rec(n,k,target,modulo,dp);
     }
