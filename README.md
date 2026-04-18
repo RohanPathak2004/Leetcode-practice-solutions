@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0650-2-keys-keyboard) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sliding Window
 |  |
 | ------- |
