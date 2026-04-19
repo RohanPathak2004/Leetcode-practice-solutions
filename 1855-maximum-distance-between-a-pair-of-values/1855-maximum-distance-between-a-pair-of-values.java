@@ -22,7 +22,6 @@ class Solution {
                     i++;
                 }
             }
-            // System.out.println(max+" "+j+" "+i);
         }
         
         return max;
