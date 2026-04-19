@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1980-find-unique-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0567-permutation-in-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Design
 |  |
 | ------- |
