@@ -1,18 +1,17 @@
 class Solution {
-    public int rec(int tar, int n, int[] nums, int[] dp){
-        if(tar==0) return 1;
-        if(tar<0) return 0;
-        if(dp[tar]!=-1) return dp[tar];
-        int pick = 0;
-        for(int idx = 0 ;idx<n ; idx++){
-            pick += rec(tar-nums[idx],n,nums,dp);
-        }
-        return dp[tar] =  pick;
-    }
-    public int combinationSum4(int[] nums, int target) {
+    public int combinationSum4(int[] nums, int tar) {
         int n = nums.length;
-        int[] dp = new int[target+1];
-        Arrays.fill(dp,-1);
-        return rec(target,n,nums,dp);
+        int[] dp = new int[tar + 1];
+        dp[0] = 1;
+        for (int i = 1; i <= tar; i++) {
+            int pick = 0;
+            for (int idx = 0; idx < n; idx++) {
+                if (i - nums[idx] >= 0)
+                    pick += dp[i - nums[idx]];
+            }
+            dp[i] += pick;
+        }
+        // System.out.println(dp[tar]);
+        return dp[tar];
     }
 }
