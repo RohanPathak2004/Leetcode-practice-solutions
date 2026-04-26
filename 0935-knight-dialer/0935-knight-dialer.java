@@ -12,9 +12,7 @@ class Solution {
                               rec(r - 1, c + 2, k - 1,dp) + rec(r - 1, c - 2, k - 1,dp) +
                               rec(r - 2, c - 1, k - 1,dp) + rec(r - 2, c + 1, k - 1,dp))%modulo;
     }
-
     public int knightDialer(int n) {
-        int num = 1;
         long val = 0;
         long[][][] dp =  new long[n][4][3];
         for(long[][] mat: dp){
@@ -22,14 +20,11 @@ class Solution {
                 Arrays.fill(c,-1);
             }
         }
-        
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 3; j++) {
                 val = (val+rec(i, j, n - 1,dp))%modulo;
-
             }
         }
-
         return (int)val;
     }
 }
