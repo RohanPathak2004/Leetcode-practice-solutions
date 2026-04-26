@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0935-knight-dialer](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0935-knight-dialer) |
 | [0983-minimum-cost-for-tickets](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1049-last-stone-weight-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1049-last-stone-weight-ii) |
