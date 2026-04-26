@@ -7,10 +7,10 @@ class Solution {
             return 1;
         // System.out.println(dial[r][c]);
         if(dp[k][r][c]!=-1) return dp[k][r][c];
-        return dp[k][r][c] =  (rec(r + 1, c + 2, k - 1,dp)%modulo + rec(r + 1, c - 2, k - 1,dp)%modulo+
-                              rec(r + 2, c + 1, k - 1,dp)%modulo + rec(r + 2, c - 1, k - 1,dp)%modulo +
-                              rec(r - 1, c + 2, k - 1,dp)%modulo + rec(r - 1, c - 2, k - 1,dp)%modulo +
-                              rec(r - 2, c - 1, k - 1,dp)%modulo + rec(r - 2, c + 1, k - 1,dp)%modulo)%modulo;
+        return dp[k][r][c] =  (rec(r + 1, c + 2, k - 1,dp) + rec(r + 1, c - 2, k - 1,dp)+
+                              rec(r + 2, c + 1, k - 1,dp) + rec(r + 2, c - 1, k - 1,dp) +
+                              rec(r - 1, c + 2, k - 1,dp) + rec(r - 1, c - 2, k - 1,dp) +
+                              rec(r - 2, c - 1, k - 1,dp) + rec(r - 2, c + 1, k - 1,dp))%modulo;
     }
 
     public int knightDialer(int n) {
