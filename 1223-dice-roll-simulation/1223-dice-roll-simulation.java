@@ -17,7 +17,7 @@ class Solution {
     public int dieSimulator(int n, int[] rollMax) {
         int val = 0;
         int modulo = 1_000_000_007;
-        int max = Arrays.stream(rollMax).reduce(0,(a,b)->a+b);
+        int max = Arrays.stream(rollMax).reduce(0,(a,b)->Math.max(a,b));
         long[][][] dp = new long[n+1][6][max+1];
         for(long[][] mat:dp){
             for(long[] c:mat) Arrays.fill(c,-1);
