@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1049-last-stone-weight-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1223-dice-roll-simulation](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1223-dice-roll-simulation) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1223-dice-roll-simulation](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1223-dice-roll-simulation) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
