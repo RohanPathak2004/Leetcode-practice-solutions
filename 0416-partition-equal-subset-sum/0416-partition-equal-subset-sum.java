@@ -1,21 +1,19 @@
 class Solution {
-    public boolean  rec(int i,int cur,int tar, int n, int[] nums, Boolean[][] dp){
-        if(cur>tar) return false;
-        if(i==n){
-            if(cur==tar) return true;
+    public boolean rec(int i,int sum,int tar,int[] nums,Boolean[][] dp){
+        if(sum>tar) return false;
+        if(i==nums.length){
+            if(sum==tar) return true;
             return false;
         }
-        if(dp[cur][i]!=null) return dp[cur][i];
-        boolean skip = rec(i+1,cur,tar,n,nums,dp);
-        boolean pick = rec(i+1,cur+nums[i],tar, n, nums,dp);
-        return dp[cur][i] =  skip || pick;
+        if(dp[i][sum]!=null) return dp[i][sum];
+        boolean skip = rec(i+1,sum,tar,nums,dp);
+        boolean pick = rec(i+1,sum+nums[i],tar,nums,dp);
+        return dp[i][sum] = skip||pick;
     }
     public boolean canPartition(int[] nums) {
-        int totalSum = Arrays.stream(nums).reduce(0,(a,b)->a+b);
+        int totalSum = Arrays.stream(nums).sum();
         if(totalSum%2==1) return false;
-        int n = nums.length;
-        int tar = totalSum/2;
-        Boolean[][] dp = new Boolean[tar+1][n+1];
-        return rec(0,0,tar,nums.length,nums,dp);
+        Boolean[][] dp = new Boolean[nums.length][totalSum/2+1];
+        return rec(0,0,totalSum/2,nums,dp);
     }
 }
