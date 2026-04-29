@@ -6,8 +6,8 @@ class Solution {
             return false;
         }
         if(dp[i][sum]!=null) return dp[i][sum];
-        boolean skip = rec(i+1,sum,tar,nums,dp);
-        boolean pick = rec(i+1,sum+nums[i],tar,nums,dp);
+        Boolean skip = rec(i+1,sum,tar,nums,dp);
+        Boolean pick = rec(i+1,sum+nums[i],tar,nums,dp);
         return dp[i][sum] = skip||pick;
     }
     public boolean canPartition(int[] nums) {
