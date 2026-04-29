@@ -1,5 +1,5 @@
 class Solution {
-    public boolean rec(int i,int sum,int tar,int[] nums,Boolean[][] dp){
+    public Boolean rec(int i,int sum,int tar,int[] nums,Boolean[][] dp){
         if(sum>tar) return false;
         if(i==nums.length){
             if(sum==tar) return true;
