@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [0740-delete-and-earn](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0808-soup-servings](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0808-soup-servings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0931-minimum-falling-path-sum) |
