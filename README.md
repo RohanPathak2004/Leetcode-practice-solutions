@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Union-Find
 |  |
 | ------- |
@@ -342,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0808-soup-servings) |
+## Tree
+|  |
+| ------- |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Binary Tree
+|  |
+| ------- |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
