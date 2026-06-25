@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -346,9 +347,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
