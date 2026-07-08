@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1980-find-unique-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Union-Find
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Bit Manipulation
