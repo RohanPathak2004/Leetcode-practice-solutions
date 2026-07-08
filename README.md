@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
