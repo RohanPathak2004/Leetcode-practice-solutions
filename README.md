@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Iterator
 |  |
