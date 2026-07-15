@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0307-range-sum-query-mutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -404,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Linked List
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
