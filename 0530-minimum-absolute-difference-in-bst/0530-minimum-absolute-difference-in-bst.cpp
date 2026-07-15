@@ -11,19 +11,14 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root,vector<int>& nums){
-        if(root == nullptr) return;
-        dfs(root->left,nums);
-        nums.push_back(root->val);
-        dfs(root->right,nums);
-    }
+    int prev = INT_MAX;
+    int min_ans = INT_MAX;
     int getMinimumDifference(TreeNode* root) {
-        vector<int> nums;
-        dfs(root,nums);
-        int ans = INT_MAX;
-        for(int i = 0; i<nums.size()-1 ; i++) {
-            ans = min(ans,nums[i+1]-nums[i]);
-        }
-        return ans;
+        if(root == NULL) return INT_MAX;
+        getMinimumDifference(root->left);
+        if(prev!=INT_MAX) min_ans = min(min_ans,root->val-prev);
+        prev = root->val;
+        getMinimumDifference(root->right);
+        return min_ans;
     }
 };
