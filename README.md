@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
