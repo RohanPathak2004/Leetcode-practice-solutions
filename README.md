@@ -451,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
