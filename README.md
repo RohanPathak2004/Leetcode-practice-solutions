@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0210-course-schedule-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
