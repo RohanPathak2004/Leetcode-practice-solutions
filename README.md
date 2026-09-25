@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
 ## Two Pointers
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -470,4 +474,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
