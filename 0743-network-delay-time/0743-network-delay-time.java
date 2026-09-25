@@ -1,4 +1,3 @@
-import java.io.*;
 class Solution {
      record Pair(int node, int time) {
     }
