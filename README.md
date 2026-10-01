@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1514-path-with-maximum-probability](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1514-path-with-maximum-probability) |
 ## Two Pointers
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
+| [1514-path-with-maximum-probability](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Indexed Tree
 |  |
@@ -478,8 +481,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
