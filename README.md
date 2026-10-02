@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1514-path-with-maximum-probability) |
 ## Two Pointers
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [0740-delete-and-earn](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0808-soup-servings](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0808-soup-servings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -481,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
