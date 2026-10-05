@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0856-score-of-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0856-score-of-parentheses) |
 | [2751-robot-collisions](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2751-robot-collisions) |
 ## Probability and Statistics
 |  |
@@ -493,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1514-path-with-maximum-probability) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
