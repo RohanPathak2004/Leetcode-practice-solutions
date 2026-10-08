@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0856-score-of-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2751-robot-collisions](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2751-robot-collisions) |
 ## Probability and Statistics
 |  |
@@ -503,4 +505,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-score-of-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
