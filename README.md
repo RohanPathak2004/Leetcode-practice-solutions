@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2751-robot-collisions](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2751-robot-collisions) |
 ## Probability and Statistics
 |  |
@@ -506,4 +509,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
