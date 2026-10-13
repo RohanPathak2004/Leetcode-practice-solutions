@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-visit-array-positions-to-maximize-score](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2751-robot-collisions](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/2751-robot-collisions) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
