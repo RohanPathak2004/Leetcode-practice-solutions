@@ -1,26 +1,20 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        // 2 pointer approach i and j sliding window
-        HashMap<Character, Integer> map = new HashMap<>();
-        int i = 0, j = 0;
-        int maxlen = 0;
-        while (j < s.length()) {
+        int n = s.length();
+        var map = new HashMap<Character,Integer>();
+        int  i = 0;
+        int j = 0;
+        int maxLen = 0;
+        while(j<n) {
             char ch = s.charAt(j);
-            if (map.containsKey(ch) && map.get(ch) >= i) {
-                int len = j - i;
-                maxlen = Math.max(maxlen, len);
-                while (s.charAt(i) != ch)
-                    i++;
+            int freq = map.merge(ch,1,Integer::sum);
+            while(map.get(ch)>=2) {
+                map.merge(s.charAt(i),-1,Integer::sum);
                 i++;
-
             }
-                
-            map.put(ch, j);
-            
+            maxLen = Math.max(maxLen,j-i+1);
             j++;
         }
-        int len = j - i;
-        maxlen = Math.max(maxlen, len);
-        return maxlen;
+        return maxLen;
     }
 }
