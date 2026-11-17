@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0048-rotate-image) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0307-range-sum-query-mutable](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0307-range-sum-query-mutable) |
