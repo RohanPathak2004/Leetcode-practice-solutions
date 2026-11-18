@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0076-minimum-window-substring) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0062-unique-paths) |
@@ -516,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RohanPathak2004/Leetcode-practice-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
